@@ -2,11 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd08fe59-7b65-4e9f-9224-766afd02eb3d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DP/打家劫舍 II.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/二叉树的最近公共祖先.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/二叉树的直径.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary search/分割数组的最大值.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFS/矩阵中的最长递增路径.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DP/最长数对链.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/合并K个排序链表.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/最长有效括号.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/柱状图中最大的矩形.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/用栈实现队列.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/用队列实现栈.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/移掉K位数字.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/二叉树的中序遍历.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/二叉树的前序遍历.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/把二叉搜索树转换为累加树.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DP/打家劫舍 II.md" beforeDir="false" afterPath="$PROJECT_DIR$/DP/打家劫舍 II.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/二叉树的最近公共祖先.md" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/二叉树的最近公共祖先.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/二叉树的直径.md" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/二叉树的直径.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,11 +32,11 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tree/二叉树的最近公共祖先.md">
+        <entry file="file://$PROJECT_DIR$/Tree/二叉树的直径.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="89" selection-start-column="89" selection-end-column="89" />
+              <first_editor relative-caret-position="180">
+                <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
               </first_editor>
               <second_editor />
             </state>
@@ -33,11 +44,59 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tree/二叉树的直径.md">
+        <entry file="file://$PROJECT_DIR$/Stack/用队列实现栈.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="396">
-                <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+              <first_editor relative-caret-position="1058">
+                <caret line="86" column="2" selection-start-line="86" selection-start-column="2" selection-end-line="86" selection-end-column="2" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Stack/用栈实现队列.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="414">
+                <caret line="49" column="2" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="2" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Stack/移掉K位数字.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="414">
+                <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Binary search/分割数组的最大值.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="518">
+                <caret line="38" column="2" selection-start-line="38" selection-start-column="2" selection-end-line="38" selection-end-column="2" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DFS/矩阵中的最长递增路径.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="324">
+                <caret line="24" column="51" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
               </first_editor>
               <second_editor />
             </state>
@@ -45,11 +104,47 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DP/打家劫舍 II.md">
+        <entry file="file://$PROJECT_DIR$/DP/最长数对链.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="342">
-                <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+              <first_editor relative-caret-position="522">
+                <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tree/二叉树的前序遍历.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="216">
+                <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Stack/柱状图中最大的矩形.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="432">
+                <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sort/合并K个排序链表.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="486">
+                <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
               </first_editor>
               <second_editor />
             </state>
@@ -65,9 +160,21 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/DP/打家劫舍 II.md" />
         <option value="$PROJECT_DIR$/Tree/二叉树的最近公共祖先.md" />
         <option value="$PROJECT_DIR$/Tree/二叉树的直径.md" />
-        <option value="$PROJECT_DIR$/DP/打家劫舍 II.md" />
+        <option value="$PROJECT_DIR$/Tree/把二叉搜索树转换为累加树.md" />
+        <option value="$PROJECT_DIR$/Stack/最长有效括号.md" />
+        <option value="$PROJECT_DIR$/Tree/二叉树的前序遍历.md" />
+        <option value="$PROJECT_DIR$/Tree/二叉树的中序遍历.md" />
+        <option value="$PROJECT_DIR$/Stack/柱状图中最大的矩形.md" />
+        <option value="$PROJECT_DIR$/Sort/合并K个排序链表.md" />
+        <option value="$PROJECT_DIR$/Stack/用队列实现栈.md" />
+        <option value="$PROJECT_DIR$/Stack/用栈实现队列.md" />
+        <option value="$PROJECT_DIR$/Stack/移掉K位数字.md" />
+        <option value="$PROJECT_DIR$/Binary search/分割数组的最大值.md" />
+        <option value="$PROJECT_DIR$/DFS/矩阵中的最长递增路径.md" />
+        <option value="$PROJECT_DIR$/DP/最长数对链.md" />
       </list>
     </option>
   </component>
@@ -97,12 +204,12 @@
             <path>
               <item name="LeetCode-Notes" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Notes" type="462c0819:PsiDirectoryNode" />
-              <item name="DP" type="462c0819:PsiDirectoryNode" />
+              <item name="Binary search" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-Notes" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Notes" type="462c0819:PsiDirectoryNode" />
-              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+              <item name="DFS" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -148,7 +255,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588277443013</updated>
-      <workItem from="1588277445007" duration="5045000" />
+      <workItem from="1588277445007" duration="14358000" />
     </task>
     <task id="LOCAL-00001" summary="add docs directory">
       <created>1588277971954</created>
@@ -157,11 +264,18 @@
       <option name="project" value="LOCAL" />
       <updated>1588277971954</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add tree and dp">
+      <created>1588394968762</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588394968762</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5045000" />
+    <option name="totallyTimeSpent" value="14358000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -205,7 +319,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add docs directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="add docs directory" />
+    <MESSAGE value="add tree and dp" />
+    <option name="LAST_COMMIT_MESSAGE" value="add tree and dp" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Stack/最大矩形.md">
@@ -230,17 +345,17 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor>
-            <caret column="89" selection-start-column="89" selection-end-column="89" />
+            <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tree/二叉树的直径.md">
+    <entry file="file://$PROJECT_DIR$/Tree/把二叉搜索树转换为累加树.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="396">
-            <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+          <first_editor relative-caret-position="360">
+            <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
           </first_editor>
           <second_editor />
         </state>
@@ -249,8 +364,128 @@
     <entry file="file://$PROJECT_DIR$/DP/打家劫舍 II.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="342">
-            <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+          <first_editor>
+            <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stack/最长有效括号.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="324">
+            <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/二叉树的中序遍历.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="126">
+            <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/二叉树的前序遍历.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="216">
+            <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stack/柱状图中最大的矩形.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="432">
+            <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sort/合并K个排序链表.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="486">
+            <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/二叉树的直径.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stack/用队列实现栈.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1058">
+            <caret line="86" column="2" selection-start-line="86" selection-start-column="2" selection-end-line="86" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stack/用栈实现队列.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="414">
+            <caret line="49" column="2" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stack/移掉K位数字.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="414">
+            <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Binary search/分割数组的最大值.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="518">
+            <caret line="38" column="2" selection-start-line="38" selection-start-column="2" selection-end-line="38" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DFS/矩阵中的最长递增路径.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="324">
+            <caret line="24" column="51" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DP/最长数对链.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="522">
+            <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
           </first_editor>
           <second_editor />
         </state>

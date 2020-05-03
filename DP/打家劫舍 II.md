@@ -1,4 +1,4 @@
-# ![打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/)
+# [打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/)
 > 所有的房屋都围成一圈,如果两间相邻的房屋在同一晚上被小偷闯入，系统会自动报警
 
 ```cpp
